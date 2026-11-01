@@ -1,0 +1,6 @@
+interface:
+  display_name: "聚焦分析"
+  short_description: "围绕关键关系深入分析，按理解顺序展开，减少不必要的认知负担"
+  default_prompt: "使用 $focused-analysis 帮我分析下面的问题，讲清核心关系、关键依据和必要前提："
+policy:
+  allow_implicit_invocation: false

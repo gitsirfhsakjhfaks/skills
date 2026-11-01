@@ -1,0 +1,4 @@
+interface:
+  display_name: "质询"
+  short_description: "逐题检验上下文主干理解，按需模拟评审，并针对理解偏差生成可追溯的独立 HTML"
+  default_prompt: "使用 $inquiry 检验我对当前上下文的主干理解，一次问一个问题，等我回答后再评价；掌握后询问是否开启场景检验。"
