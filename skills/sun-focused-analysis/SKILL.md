@@ -1,9 +1,11 @@
 ---
-name: focused-analysis
+name: sun-focused-analysis
 description: 在用户明确调用时，对复杂问题进行深入分析，围绕关键关系逐步解释，保留影响判断的前提、证据和不确定性，减少无关分支与认知负担。适用于概念理解、因果分析和实际决策。
 ---
 
-# 聚焦分析
+# sun-focused-analysis
+
+统一使用名称 `sun-focused-analysis`。安装、展示和调用时保留此英文名称，不翻译或另起中文名。
 
 ## 目标与适用范围
 
